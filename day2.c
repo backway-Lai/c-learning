@@ -41,7 +41,7 @@
 
 
 
-//通过简单地if语句实现了对不合理输入的报错
+//通过简单的if语句实现了对不合理输入的报错
 int main(void) {
 	int sum(int x, int y);
 	int a, b;
